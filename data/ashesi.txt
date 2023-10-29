@@ -8,7 +8,7 @@ Ashesi offers a four-year bachelor's program grounded in a multidisciplinary cor
 ​
 Ashesi University's 100-acre campus in Berekuso overlooks the Ghanaian capital city of Accra. It contains the Natembea health centre, two sports courts and a sports center with a football field, running track and gym. It also hosts the Ghana Climate innovation centre.
 
-Courses Offered
+Major's Offered
 
 Engineering
 
@@ -18,6 +18,28 @@ B.Sc. Mechanical Engineering
 M.Sc. Mechatronic Engineering
 M.Phil. Mechatronic Engineering
 MAS Mechatronic Engineering (awarded through ETH Zürich)
+
+Courses Offered for Computer Science
+
+First Year
+
+First Semester
+
+Course Code	Course Title	Credit Hours
+ECD 111	Foundation of Design and Entrepreneurship I	1
+ECD 112	Introduction to Computer Science	1
+ECD 113	Ashesi Success	1
+ECD 114	Written and Oral Communication	1
+ECD 115	Calculus I	1
+
+Second Semester
+
+Course Code	Course Title	Credit Hours
+ECD 121	Foundation of Design and Entrepreneurship II	1
+ECD 122	Introduction to Computer Programming	1
+ECD 123 Text and Meaning	1
+ECD 124	Calculus II	1
+ECD 125	Leadership Seminar 1: What makes a good leader ?	1
 
 Business Administration
 

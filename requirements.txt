@@ -2,4 +2,7 @@ langchain
 faiss-cpu
 openai
 tiktoken
+setuptools 
+wheel
+pip
 dotenv
